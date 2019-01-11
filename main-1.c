@@ -55,5 +55,5 @@ int multi(int a, int b)
 int div(int a, int b)
 {
 	//TODO implementation
-	return 0;
+	return b == 0 ? 0 : a / b;
 }
