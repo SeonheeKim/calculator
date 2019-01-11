@@ -12,7 +12,7 @@ int main(int argc, char* argv[])
 	
 	printf("수식을 입력하세요: ex>1+2 ");
 	scanf("%d %c %d", &number1, &operator, &number2);
-	
+	//sdklfjsdlkfj
 	switch (operator)
 	{
 		case '+':
